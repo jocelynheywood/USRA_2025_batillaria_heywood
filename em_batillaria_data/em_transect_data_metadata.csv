@@ -1,0 +1,15 @@
+﻿Meta data for transect density
+Em Lim
+
+"Each row is one quadrat from a transect, there were 3 transects per beach and 10 quadrats per transect"
+
+Columns:
+"beach = name of beach (hornby = hornby island, deep= deep bay, rath= rathetrevor, padilla = padilla bay, crescent = crescent beach, valdes = valdes Island, saltspring = saltspring island, ladysmith = ladysmith, page = page lagoon, lund=lund) *coordinates in site_info_data*"
+"transect = 1, 2 or 3 to indicate which transect this was"
+quadrat = the quadrat number (1-10)
+"quadrat size = large or small quadrat. L = 0.2401 m2, S = 0.0961 m2"
+number_snails = how many snails were in the quadrat
+position = distance of the quadrat from the beginning of the quadrat (which started at the high tide line)
+ph = measured ph of the water
+prev = proportion of the 5 snails dissected per quadrat that were infected with the trematode parasite. This should be between 0 - 1.
+"substrate = type of substrate under the quadrat (rock, sandy_mud, sand, mud)"
